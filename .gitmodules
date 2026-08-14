@@ -1,3 +1,6 @@
 [submodule "IRMA"]
 	path = IRMA
 	url = https://github.com/Shahbazi-Amir/IRMA.git
+[submodule "master_test_codex"]
+	path = master_test_codex
+	url = https://github.com/Shahbazi-Amir/master_test_codex.git

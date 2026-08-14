@@ -4,3 +4,6 @@
 [submodule "master_test_codex"]
 	path = master_test_codex
 	url = https://github.com/Shahbazi-Amir/master_test_codex.git
+[submodule "Political"]
+	path = Political
+	url = https://github.com/Shahbazi-Amir/Political.git

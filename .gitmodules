@@ -13,3 +13,6 @@
 [submodule "Project_Brain_Master"]
 	path = Project_Brain_Master
 	url = https://github.com/Shahbazi-Amir/Project_Brain_Master.git
+[submodule "Brain_Agent_Book"]
+	path = Brain_Agent_Book
+	url = https://github.com/Shahbazi-Amir/Brain_Agent_Book.git
